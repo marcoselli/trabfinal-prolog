@@ -1,0 +1,15 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  color: #404e67;
+  background: #f5f7fa;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.tabular {
+  color: #404e67;
+  background: #f5f7fa;
+  font-family: 'Open Sans', sans-serif;
+}
