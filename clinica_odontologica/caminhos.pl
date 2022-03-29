@@ -17,7 +17,7 @@
 user:file_search_path(dir_base, 'CAMINHO COMPLETO').
 
 % Diretório do projeto
-user:file_search_path(projeto, dir_base(bookmarks)).
+user:file_search_path(projeto, dir_base(clinica_odontologica)).
 
 % Diretório de configuração
 user:file_search_path(config, projeto(config)).
